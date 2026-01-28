@@ -1,7 +1,0 @@
-{
-  "name": "envr17-testing",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "node test_orchestrator.js"
-  }
-}
